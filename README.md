@@ -1,8 +1,8 @@
-<h1>Sistema de publicacion de noticias</h1>
+<h1>Sistema de publicación de noticias</h1>
 
 ## Sobre el sistema
-Pequeño sistema que permite la publicacion de contenidos como: noticias, enlaces, imagenes. Estas publicaciones seran servidas a travez de una api la cual será consumida en otra aplicacion que visualizará las noticias publicadas.
+Pequeño sistema que permite la publicación de contenidos como: noticias, enlaces, imágenes. Estas publicaciones serán servidas a travez de una api la cual será consumida en otra aplicacion que visualizará las noticias publicadas.
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+software licensed under the [MIT license](https://opensource.org/licenses/MIT).
